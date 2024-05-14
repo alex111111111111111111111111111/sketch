@@ -1,0 +1,17 @@
+.columngrid
+{
+   display:flex;
+   flex:1;
+}
+
+.rowsgrid
+{
+    
+    
+     height:50px;
+    width:40px;
+    border-style: solid;
+    border:1 px black ;
+    margin:2px;
+    background-color:white;}
+    
